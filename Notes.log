@@ -1,21 +1,12 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.12)  16 JUL 2015 00:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  26 NOV 2015 23:21
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **Notes.tex
-
-("I:\Google Drive\New York University Polytechnic School of Engineering\Notes\C
-ombinatorics & Graph Theory\Notes.tex"
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
+(./Notes.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -28,7 +19,7 @@ Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 458.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 ** ATTENTION: Single column mode is not typically used with IEEE publications.
@@ -117,22 +108,22 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen124
 \c@IEEEbiography=\count93
 \@IEEEtranrubishbin=\box27
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count94
@@ -147,26 +138,25 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen131
 \Gm@layoutvoffset=\dimen132
 \Gm@dimlist=\toks16
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen133
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen134
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count97
@@ -207,8 +197,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
-Package: amsthm 2004/08/06 v2.20
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks22
 \thm@bodyfont=\toks23
 \thm@headfont=\toks24
@@ -219,36 +209,36 @@ Package: amsthm 2004/08/06 v2.20
 \thm@headsep=\skip49
 \dth@everypar=\toks27
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\wasysym\wasysym.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/wasysym/wasysym.sty
 Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
 \symwasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 (Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks28
 \inpenc@posthook=\toks29
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -397,8 +387,8 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -428,8 +418,8 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -452,16 +442,16 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -490,7 +480,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -498,24 +488,24 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen142
 \Hy@linkcounter=\count109
 \Hy@pagecounter=\count110
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count111
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `final' set `true' on input line 4319.
@@ -529,7 +519,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count112
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -554,40 +544,40 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count117
 \c@bookmark@seq@number=\count118
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip50
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gread@gobject=\count119
 ))
 \Gin@req@height=\dimen146
 \Gin@req@width=\dimen147
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip51
 \f@ncyO@elh=\skip52
 \f@ncyO@erh=\skip53
@@ -603,19 +593,19 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \c@example=\count122
 \c@solution=\count123
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 100.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\tocstyle.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/tocstyle.sty
 Package: tocstyle 2013/08/11 v0.2e-alpha KOMA-Script package (versatile toc sty
 les)
 
@@ -640,11 +630,11 @@ exclude:
 exclude: 
 exclude: 
 exclude: 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
-Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count125
 \c@Blindtext=\count126
@@ -664,9 +654,9 @@ Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count140
 \c@blind@pangramcount=\count141
 \c@blind@pangrammax=\count142
-)
-("I:\Google Drive\New York University Polytechnic School of Engineering\Notes\C
-ombinatorics & Graph Theory\Notes.aux")
+) (./Notes.aux)
+\openout1 = `Notes.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
@@ -755,10 +745,10 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
 
 \AtBeginShipoutBox=\box30
 Package hyperref Info: Link coloring OFF on input line 47.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count143
@@ -767,13 +757,12 @@ LaTeX Info: Redefining \ref on input line 47.
 LaTeX Info: Redefining \pageref on input line 47.
 LaTeX Info: Redefining \nameref on input line 47.
 
-("I:\Google Drive\New York University Polytechnic School of Engineering\Notes\C
-ombinatorics & Graph Theory\Notes.out")
-("I:\Google Drive\New York University Polytechnic School of Engineering\Notes\C
-ombinatorics & Graph Theory\Notes.out")
+(./Notes.out) (./Notes.out)
 \@outlinefile=\write3
+\openout3 = `Notes.out'.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count144
 \scratchdimen=\dimen148
@@ -786,22 +775,37 @@ ombinatorics & Graph Theory\Notes.out")
 \MPnumerator=\count148
 \makeMPintoPDFobject=\count149
 \everyMPtoPDFconversion=\toks31
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package tocstyle Info: prepare \l@section for redefinition on input line 47.
 Package tocstyle Info: prepare \l@subsection for redefinition on input line 47.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 47.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 47.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+wasy on input line 47.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\wasysym\uwasy.fd"
+(/usr/local/texlive/2015/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
 Package tocstyle Info: prepare \l@subsubsection for redefinition on input line 
@@ -810,9 +814,7 @@ Package tocstyle Info: prepare \l@table for redefinition on input line 47.
 Package tocstyle Info: prepare \l@figure for redefinition on input line 47.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 51.
-
-("I:\Google Drive\New York University Polytechnic School of Engineering\Notes\C
-ombinatorics & Graph Theory\Notes.toc"
+ (./Notes.toc
 number indent by \l@... (toc, 1):  -33.0pt
 text indent by \l@... (toc, 1):  33.0pt
 number indent by parent (toc, 1):  -33.0pt
@@ -920,7 +922,9 @@ text noindent (toc, 1): 18.0pt
 number noindent (toc, 1): 0.0pt
 )
 \tf@toc=\write4
- [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+\openout4 = `Notes.toc'.
+
+ [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ptm/bx/sc' in size <12> not available
 (Font)              Font shape `T1/ptm/b/sc' tried instead on input line 57.
 
@@ -1064,13 +1068,13 @@ Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 346.
 
-<Pascal.png, id=151, 316.18124pt x 177.66376pt>
-File: Pascal.png Graphic file (type png)
- <use Pascal.png>
-Package pdftex.def Info: Pascal.png used on input line 381.
+<img/Pascal.png, id=153, 316.18124pt x 177.66376pt>
+File: img/Pascal.png Graphic file (type png)
+ <use img/Pascal.png>
+Package pdftex.def Info: img/Pascal.png used on input line 381.
 (pdftex.def)             Requested size: 252.94533pt x 142.13118pt.
- [5 <I:/Google Drive/New York University Polytechnic School of Engineering/Note
-s/Combinatorics & Graph Theory/Pascal.png>] [6]
+
+[5 <./img/Pascal.png>] [6]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 485.
@@ -1176,24 +1180,21 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 983.
 
-[13] <Generalized_Model.png, id=250, 602.25pt x 602.25pt>
-File: Generalized_Model.png Graphic file (type png)
+[13] <img/Generalized_Model.png, id=252, 602.25pt x 602.25pt>
+File: img/Generalized_Model.png Graphic file (type png)
 
-<use Generalized_Model.png>
-Package pdftex.def Info: Generalized_Model.png used on input line 1121.
+<use img/Generalized_Model.png>
+Package pdftex.def Info: img/Generalized_Model.png used on input line 1121.
 (pdftex.def)             Requested size: 120.44786pt x 120.44786pt.
 
-<BC_Identity_Visualization.png, id=251, 205.5178pt x 128.73094pt>
-File: BC_Identity_Visualization.png Graphic file (type png)
+<img/BC_Identity_Visualization.png, id=253, 205.5178pt x 128.73094pt>
+File: img/BC_Identity_Visualization.png Graphic file (type png)
 
-<use BC_Identity_Visualization.png>
-Package pdftex.def Info: BC_Identity_Visualization.png used on input line 1121.
-
+<use img/BC_Identity_Visualization.png>
+Package pdftex.def Info: img/BC_Identity_Visualization.png used on input line 1
+121.
 (pdftex.def)             Requested size: 41.10283pt x 25.74573pt.
- [14 <I:/Google Drive/New York University Polytechnic School of Engineering/Not
-es/Combinatorics & Graph Theory/Generalized_Model.png> <I:/Google Drive/New Yor
-k University Polytechnic School of Engineering/Notes/Combinatorics & Graph Theo
-ry/BC_Identity_Visualization.png>] [15]
+ [14 <./img/Generalized_Model.png> <./img/BC_Identity_Visualization.png>] [15]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1191.
@@ -1248,39 +1249,39 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1494.
 
-[20] [21] <Ferrers_Graph_14.jpg, id=319, 45.16875pt x 30.86531pt>
-File: Ferrers_Graph_14.jpg Graphic file (type jpg)
+[20] [21] <img/Ferrers_Graph_14.jpg, id=322, 45.16875pt x 30.86531pt>
+File: img/Ferrers_Graph_14.jpg Graphic file (type jpg)
 
-<use Ferrers_Graph_14.jpg>
-Package pdftex.def Info: Ferrers_Graph_14.jpg used on input line 1626.
+<use img/Ferrers_Graph_14.jpg>
+Package pdftex.def Info: img/Ferrers_Graph_14.jpg used on input line 1626.
 (pdftex.def)             Requested size: 45.16862pt x 30.86522pt.
 
-<Ferrers_Graph_6(1).jpg, id=320, 15.05624pt x 32.37094pt>
-File: Ferrers_Graph_6(1).jpg Graphic file (type jpg)
+<img/Ferrers_Graph_6(1).jpg, id=323, 15.05624pt x 32.37094pt>
+File: img/Ferrers_Graph_6(1).jpg Graphic file (type jpg)
 
-<use Ferrers_Graph_6(1).jpg>
-Package pdftex.def Info: Ferrers_Graph_6(1).jpg used on input line 1626.
+<use img/Ferrers_Graph_6(1).jpg>
+Package pdftex.def Info: img/Ferrers_Graph_6(1).jpg used on input line 1626.
 (pdftex.def)             Requested size: 15.0562pt x 32.37085pt.
 
-<Ferrers_Graph_6(2).jpg, id=321, 30.86531pt x 15.05624pt>
-File: Ferrers_Graph_6(2).jpg Graphic file (type jpg)
+<img/Ferrers_Graph_6(2).jpg, id=324, 30.86531pt x 15.05624pt>
+File: img/Ferrers_Graph_6(2).jpg Graphic file (type jpg)
 
-<use Ferrers_Graph_6(2).jpg>
-Package pdftex.def Info: Ferrers_Graph_6(2).jpg used on input line 1626.
+<use img/Ferrers_Graph_6(2).jpg>
+Package pdftex.def Info: img/Ferrers_Graph_6(2).jpg used on input line 1626.
 (pdftex.def)             Requested size: 30.86522pt x 15.0562pt.
 
-<Ferrers_Graph_6(3).jpg, id=322, 22.58438pt x 30.1125pt>
-File: Ferrers_Graph_6(3).jpg Graphic file (type jpg)
+<img/Ferrers_Graph_6(3).jpg, id=325, 22.58438pt x 30.1125pt>
+File: img/Ferrers_Graph_6(3).jpg Graphic file (type jpg)
 
-<use Ferrers_Graph_6(3).jpg>
-Package pdftex.def Info: Ferrers_Graph_6(3).jpg used on input line 1626.
+<use img/Ferrers_Graph_6(3).jpg>
+Package pdftex.def Info: img/Ferrers_Graph_6(3).jpg used on input line 1626.
 (pdftex.def)             Requested size: 22.5843pt x 30.11241pt.
 
-<Ferrers_Graph_6(4).jpg, id=323, 30.86531pt x 22.58438pt>
-File: Ferrers_Graph_6(4).jpg Graphic file (type jpg)
+<img/Ferrers_Graph_6(4).jpg, id=326, 30.86531pt x 22.58438pt>
+File: img/Ferrers_Graph_6(4).jpg Graphic file (type jpg)
 
-<use Ferrers_Graph_6(4).jpg>
-Package pdftex.def Info: Ferrers_Graph_6(4).jpg used on input line 1626.
+<use img/Ferrers_Graph_6(4).jpg>
+Package pdftex.def Info: img/Ferrers_Graph_6(4).jpg used on input line 1626.
 (pdftex.def)             Requested size: 30.86522pt x 22.5843pt.
 
 
@@ -1307,57 +1308,49 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1630.
 
-[22 <I:/Google Drive/New York University Polytechnic School of Engineering/Note
-s/Combinatorics & Graph Theory/Ferrers_Graph_14.jpg> <I:/Google Drive/New York 
-University Polytechnic School of Engineering/Notes/Combinatorics & Graph Theory
-/Ferrers_Graph_6(1).jpg> <I:/Google Drive/New York University Polytechnic Schoo
-l of Engineering/Notes/Combinatorics & Graph Theory/Ferrers_Graph_6(2).jpg> <I:
-/Google Drive/New York University Polytechnic School of Engineering/Notes/Combi
-natorics & Graph Theory/Ferrers_Graph_6(3).jpg> <I:/Google Drive/New York Unive
-rsity Polytechnic School of Engineering/Notes/Combinatorics & Graph Theory/Ferr
-ers_Graph_6(4).jpg>] <Example_12_2_1.jpg, id=330, 458.46281pt x 350.05782pt>
-File: Example_12_2_1.jpg Graphic file (type jpg)
+[22 <./img/Ferrers_Graph_14.jpg> <./img/Ferrers_Graph_6(1).jpg> <./img/Ferrers_
+Graph_6(2).jpg> <./img/Ferrers_Graph_6(3).jpg> <./img/Ferrers_Graph_6(4).jpg>]
+<img/Example_12_2_1.jpg, id=333, 458.46281pt x 350.05782pt>
+File: img/Example_12_2_1.jpg Graphic file (type jpg)
 
-<use Example_12_2_1.jpg>
-Package pdftex.def Info: Example_12_2_1.jpg used on input line 1682.
+<use img/Example_12_2_1.jpg>
+Package pdftex.def Info: img/Example_12_2_1.jpg used on input line 1682.
 (pdftex.def)             Requested size: 137.5399pt x 105.01814pt.
 
-<Example_12_2_2.jpg, id=331, 458.46281pt x 350.05782pt>
-File: Example_12_2_2.jpg Graphic file (type jpg)
+<img/Example_12_2_2.jpg, id=334, 458.46281pt x 350.05782pt>
+File: img/Example_12_2_2.jpg Graphic file (type jpg)
 
-<use Example_12_2_2.jpg>
-Package pdftex.def Info: Example_12_2_2.jpg used on input line 1682.
+<use img/Example_12_2_2.jpg>
+Package pdftex.def Info: img/Example_12_2_2.jpg used on input line 1682.
 (pdftex.def)             Requested size: 137.5399pt x 105.01814pt.
 
-<Example_12_2_3.jpg, id=332, 458.46281pt x 350.05782pt>
-File: Example_12_2_3.jpg Graphic file (type jpg)
+<img/Example_12_2_3.jpg, id=335, 458.46281pt x 350.05782pt>
+File: img/Example_12_2_3.jpg Graphic file (type jpg)
 
-<use Example_12_2_3.jpg>
-Package pdftex.def Info: Example_12_2_3.jpg used on input line 1682.
+<use img/Example_12_2_3.jpg>
+Package pdftex.def Info: img/Example_12_2_3.jpg used on input line 1682.
 (pdftex.def)             Requested size: 137.5399pt x 105.01814pt.
- [23 <I:/Google Drive/New York University Polytechnic School of Engineering/Not
-es/Combinatorics & Graph Theory/Example_12_2_1.jpg> <I:/Google Drive/New York U
-niversity Polytechnic School of Engineering/Notes/Combinatorics & Graph Theory/
-Example_12_2_2.jpg> <I:/Google Drive/New York University Polytechnic School of 
-Engineering/Notes/Combinatorics & Graph Theory/Example_12_2_3.jpg>] <Example_12
-_3_1.jpg, id=341, 344.03531pt x 180.675pt>
-File: Example_12_3_1.jpg Graphic file (type jpg)
+ [23 <./img/Example_12_2_1.jpg> <./img/Example_12_2_2.jpg> <./img/Example_12_2_
+3.jpg>]
+<img/Example_12_3_1.jpg, id=344, 344.03531pt x 180.675pt>
+File: img/Example_12_3_1.jpg Graphic file (type jpg)
 
-<use Example_12_3_1.jpg>
-Package pdftex.def Info: Example_12_3_1.jpg used on input line 1708.
+<use img/Example_12_3_1.jpg>
+Package pdftex.def Info: img/Example_12_3_1.jpg used on input line 1708.
 (pdftex.def)             Requested size: 103.21138pt x 54.20291pt.
- <Example_12_3_2.jpg, id=342, 338.01282pt x 240.9pt>
-File: Example_12_3_2.jpg Graphic file (type jpg)
 
-<use Example_12_3_2.jpg>
-Package pdftex.def Info: Example_12_3_2.jpg used on input line 1708.
+<img/Example_12_3_2.jpg, id=345, 338.01282pt x 240.9pt>
+File: img/Example_12_3_2.jpg Graphic file (type jpg)
+
+<use img/Example_12_3_2.jpg>
+Package pdftex.def Info: img/Example_12_3_2.jpg used on input line 1708.
 (pdftex.def)             Requested size: 101.40462pt x 72.27055pt.
 
-<Example_12_3_3.jpg, id=343, 413.29407pt x 272.51813pt>
-File: Example_12_3_3.jpg Graphic file (type jpg)
+<img/Example_12_3_3.jpg, id=346, 413.29407pt x 272.51813pt>
+File: img/Example_12_3_3.jpg Graphic file (type jpg)
 
-<use Example_12_3_3.jpg>
-Package pdftex.def Info: Example_12_3_3.jpg used on input line 1708.
+<use img/Example_12_3_3.jpg>
+Package pdftex.def Info: img/Example_12_3_3.jpg used on input line 1708.
 (pdftex.def)             Requested size: 123.98917pt x 81.75606pt.
 
 Overfull \hbox (17.41966pt too wide) in paragraph at lines 1734--1736
@@ -1370,11 +1363,8 @@ Overfull \hbox (17.41966pt too wide) in paragraph at lines 1734--1736
 $\T1/ptm/m/it/12 .
  []
 
-[24 <I:/Google Drive/New York University Polytechnic School of Engineering/Note
-s/Combinatorics & Graph Theory/Example_12_3_1.jpg> <I:/Google Drive/New York Un
-iversity Polytechnic School of Engineering/Notes/Combinatorics & Graph Theory/E
-xample_12_3_2.jpg> <I:/Google Drive/New York University Polytechnic School of E
-ngineering/Notes/Combinatorics & Graph Theory/Example_12_3_3.jpg>]
+[24 <./img/Example_12_3_1.jpg> <./img/Example_12_3_2.jpg> <./img/Example_12_3_3
+.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1812.
@@ -1424,63 +1414,54 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2192.
 
-<Graph1_1.jpg, id=391, 280.04625pt x 176.91093pt>
-File: Graph1_1.jpg Graphic file (type jpg)
- <use Graph1_1.jpg>
-Package pdftex.def Info: Graph1_1.jpg used on input line 2206.
+<img/Graph1_1.jpg, id=395, 280.04625pt x 176.91093pt>
+File: img/Graph1_1.jpg Graphic file (type jpg)
+ <use img/Graph1_1.jpg>
+Package pdftex.def Info: img/Graph1_1.jpg used on input line 2206.
 (pdftex.def)             Requested size: 84.01451pt x 53.07368pt.
 
-<Not_Equal.jpg, id=392, 75.28125pt x 176.91093pt>
-File: Not_Equal.jpg Graphic file (type jpg)
- <use Not_Equal.jpg>
-Package pdftex.def Info: Not_Equal.jpg used on input line 2206.
+<img/Not_Equal.jpg, id=396, 75.28125pt x 176.91093pt>
+File: img/Not_Equal.jpg Graphic file (type jpg)
+ <use img/Not_Equal.jpg>
+Package pdftex.def Info: img/Not_Equal.jpg used on input line 2206.
 (pdftex.def)             Requested size: 22.58453pt x 53.07368pt.
 
-<Graph1_2.jpg, id=393, 279.29344pt x 176.91093pt>
-File: Graph1_2.jpg Graphic file (type jpg)
- <use Graph1_2.jpg>
-Package pdftex.def Info: Graph1_2.jpg used on input line 2206.
+<img/Graph1_2.jpg, id=397, 279.29344pt x 176.91093pt>
+File: img/Graph1_2.jpg Graphic file (type jpg)
+ <use img/Graph1_2.jpg>
+Package pdftex.def Info: img/Graph1_2.jpg used on input line 2206.
 (pdftex.def)             Requested size: 83.78867pt x 53.07368pt.
 
-<Graph2_1.jpg, id=394, 330.48468pt x 231.11343pt>
-File: Graph2_1.jpg Graphic file (type jpg)
- <use Graph2_1.jpg>
-Package pdftex.def Info: Graph2_1.jpg used on input line 2210.
+<img/Graph2_1.jpg, id=398, 330.48468pt x 231.11343pt>
+File: img/Graph2_1.jpg Graphic file (type jpg)
+ <use img/Graph2_1.jpg>
+Package pdftex.def Info: img/Graph2_1.jpg used on input line 2210.
 (pdftex.def)             Requested size: 99.14616pt x 69.33456pt.
 
-<Equal.jpg, id=395, 75.28125pt x 231.11343pt>
-File: Equal.jpg Graphic file (type jpg)
- <use Equal.jpg>
-Package pdftex.def Info: Equal.jpg used on input line 2210.
+<img/Equal.jpg, id=399, 75.28125pt x 231.11343pt>
+File: img/Equal.jpg Graphic file (type jpg)
+ <use img/Equal.jpg>
+Package pdftex.def Info: img/Equal.jpg used on input line 2210.
 (pdftex.def)             Requested size: 22.58453pt x 69.33456pt.
 
-<Graph2_2.jpg, id=396, 330.48468pt x 231.11343pt>
-File: Graph2_2.jpg Graphic file (type jpg)
- <use Graph2_2.jpg>
-Package pdftex.def Info: Graph2_2.jpg used on input line 2210.
+<img/Graph2_2.jpg, id=400, 330.48468pt x 231.11343pt>
+File: img/Graph2_2.jpg Graphic file (type jpg)
+ <use img/Graph2_2.jpg>
+Package pdftex.def Info: img/Graph2_2.jpg used on input line 2210.
 (pdftex.def)             Requested size: 99.14616pt x 69.33456pt.
-File: Equal.jpg Graphic file (type jpg)
+File: img/Equal.jpg Graphic file (type jpg)
 
-<use Equal.jpg>
-Package pdftex.def Info: Equal.jpg used on input line 2210.
+<use img/Equal.jpg>
+Package pdftex.def Info: img/Equal.jpg used on input line 2210.
 (pdftex.def)             Requested size: 22.58453pt x 69.33456pt.
- <Graph2_3.jpg, id=397, 330.48468pt x 231.11343pt>
-File: Graph2_3.jpg Graphic file (type jpg)
+ <img/Graph2_3.jpg, id=401, 330.48468pt x 231.11343pt>
+File: img/Graph2_3.jpg Graphic file (type jpg)
 
-<use Graph2_3.jpg>
-Package pdftex.def Info: Graph2_3.jpg used on input line 2210.
+<use img/Graph2_3.jpg>
+Package pdftex.def Info: img/Graph2_3.jpg used on input line 2210.
 (pdftex.def)             Requested size: 99.14616pt x 69.33456pt.
- [30 <I:/Google Drive/New York University Polytechnic School of Engineering/Not
-es/Combinatorics & Graph Theory/Graph1_1.jpg> <I:/Google Drive/New York Univers
-ity Polytechnic School of Engineering/Notes/Combinatorics & Graph Theory/Not_Eq
-ual.jpg> <I:/Google Drive/New York University Polytechnic School of Engineering
-/Notes/Combinatorics & Graph Theory/Graph1_2.jpg> <I:/Google Drive/New York Uni
-versity Polytechnic School of Engineering/Notes/Combinatorics & Graph Theory/Gr
-aph2_1.jpg> <I:/Google Drive/New York University Polytechnic School of Engineer
-ing/Notes/Combinatorics & Graph Theory/Equal.jpg> <I:/Google Drive/New York Uni
-versity Polytechnic School of Engineering/Notes/Combinatorics & Graph Theory/Gr
-aph2_2.jpg> <I:/Google Drive/New York University Polytechnic School of Engineer
-ing/Notes/Combinatorics & Graph Theory/Graph2_3.jpg>]
+ [30 <./img/Graph1_1.jpg> <./img/Not_Equal.jpg> <./img/Graph1_2.jpg> <./img/Gra
+ph2_1.jpg> <./img/Equal.jpg> <./img/Graph2_2.jpg> <./img/Graph2_3.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2236.
@@ -1519,47 +1500,53 @@ Before submitting the final camera ready copy, remember to:
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2246.
 [31]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 2246.
-
-("I:\Google Drive\New York University Polytechnic School of Engineering\Notes\C
-ombinatorics & Graph Theory\Notes.aux")
+ (./Notes.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2246.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2246.
 
-Package rerunfilecheck Info: File `Notes.out' has not changed.
-(rerunfilecheck)             Checksum: 1CD316550E731398BD2BA6EE1AD404A0;961.
+
+
+Package rerunfilecheck Warning: File `Notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Notes.out':
+(rerunfilecheck)             Before: 1CD316550E731398BD2BA6EE1AD404A0;961
+(rerunfilecheck)             After:  40D6EA6F3339A4E0F1647A3D8719B4AE;946.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2246.
  ) 
 Here is how much of TeX's memory you used:
- 8629 strings out of 493921
- 127864 string characters out of 3144872
- 220183 words of memory out of 3000000
- 11563 multiletter control sequences out of 15000+200000
- 116530 words of font info for 143 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 29i,25n,43p,1062b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmtt12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/symbols/msbm10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times
-/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
-b>
-Output written on Notes.pdf (32 pages, 739517 bytes).
+ 8738 strings out of 493089
+ 129087 string characters out of 6134842
+ 228247 words of memory out of 5000000
+ 11855 multiletter control sequences out of 15000+600000
+ 116530 words of font info for 143 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 29i,25n,43p,1061b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2015/texmf-dist/font
+s/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on Notes.pdf (32 pages, 691903 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
+ 521 PDF objects out of 1000 (max. 8388607)
+ 439 compressed objects within 5 object streams
  203 named destinations out of 1000 (max. 500000)
  226 words of extra memory for PDF output out of 10000 (max. 10000000)
 

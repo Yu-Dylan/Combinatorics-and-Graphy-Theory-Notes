@@ -362,7 +362,7 @@ The first observation comes from the fact that $[n-(n-r)]!=r!$:
 \item[(ii)]
 The second observation will become apparent after arraying $\mathtt{C}(n,r)$ as:
 \begin{center}
-\includegraphics[scale=.8]{Pascal.png}
+\includegraphics[scale=.8]{img/Pascal.png}
 \end{center}
 This is called Pascal's Triangle. Notice that each entry is the sum of the two diagonally above:
 \begin{equation*}
@@ -1087,7 +1087,7 @@ Out of $n$ people select a group of size $m$ and then pick $k$ of these $m$ peop
 \begin{definition}[Generalized Model for the Binomial Coefficient]
 We now introduce a model which provides a useful visualization of many binomial identities. Consider a person walking on a street grid, starting from the top and progressing downward. 
 \begin{center}
-\includegraphics[scale=.2]{Generalized_Model.png}
+\includegraphics[scale=.2]{img/Generalized_Model.png}
 \end{center}
 At each intersection a person decides to go either left or right. The vertices (intersections) have been labeled in accordance with the number of total blocks and "right" decisions required to get a person to that point. Thus the vertex $(n,r)$ is $n$ blocks away from $(0,0)$ and required $r$ "right" decisions, and hence $(n-r)$ left decisions to get a person there. If we ask for the number of different paths from $(0,0)$ to $(n,r)$, the answer can be visualized in 2 ways:
 \begin{itemize}
@@ -1107,7 +1107,7 @@ Now use this scheme to prove some identities. For example, recall the identity:
 {n \choose r} = {n-1 \choose r} + {n-1 \choose r-1}
 \end{equation*}
 \begin{center}
-\includegraphics[scale=.2]{BC_Identity_Visualization.png}
+\includegraphics[scale=.2]{img/BC_Identity_Visualization.png}
 \end{center}
 \begin{proof}
 To get to corner $(n,r)$ a walker must pass through either $(n-1,r-1)$ and go right or $(n-1,r)$ and go left. Since there is no other way, number of routes to $(n,r)$ is the sum of the numbers to $(n-1,r-1)$ and to $(n-1,r)$.
@@ -1613,14 +1613,14 @@ Since $\frac{1}{1-x} = 1 + x + x^2 + x^3 + \dots$ means that any integer $k$ can
 \begin{definition}[Ferrers Graph]
 A Ferrers Graph consists of rows of dots. Dots arranged such that an upper row has at least as many dots as any row below it. Ferrers Graph can be used to represent partitions of integers. For example $14 \rightarrow 6 + 3 + 3 + 2$ would be:
 \begin{center}
-\includegraphics[scale=1]{Ferrers_Graph_14.jpg}
+\includegraphics[scale=1]{img/Ferrers_Graph_14.jpg}
 \end{center}
 Among other things, we may employ Ferrers Graphs to prove that the number of partitions of an integer into exactly $m$ parts equals the number of partitions of the integer into parts, the largest of which is $m$. This is obvious from fact that the transposition of a Ferrers Graph is also a Ferrers Graph and a graph with at most $m$ rows transposing becomes a graph with at most $m$ dots in a row. For example consider the number of partitions of 6 into 4 parts which equates to the number of partitions of 6 with 4 as the largest part:
 \begin{center}
-\includegraphics[scale=1]{Ferrers_Graph_6(1).jpg} \hspace{.5cm} $\rightarrow$ \hspace{.5cm} \includegraphics[scale=1]{Ferrers_Graph_6(2).jpg}
+\includegraphics[scale=1]{img/Ferrers_Graph_6(1).jpg} \hspace{.5cm} $\rightarrow$ \hspace{.5cm} \includegraphics[scale=1]{img/Ferrers_Graph_6(2).jpg}
 \end{center}
 \begin{center}
-\includegraphics[scale=1]{Ferrers_Graph_6(3).jpg} \hspace{.5cm} $\rightarrow$ \hspace{.5cm} \includegraphics[scale=1]{Ferrers_Graph_6(4).jpg}
+\includegraphics[scale=1]{img/Ferrers_Graph_6(3).jpg} \hspace{.5cm} $\rightarrow$ \hspace{.5cm} \includegraphics[scale=1]{img/Ferrers_Graph_6(4).jpg}
 \end{center}
 \end{definition}
 \end{minipage}}
@@ -1679,7 +1679,7 @@ Find a recurrence relation for $a_n$, the number of regions that $n$ straight li
 \begin{solution}
 First, look at simple cases:
 \begin{center}
-\includegraphics[scale=.3]{Example_12_2_1.jpg} \includegraphics[scale=.3]{Example_12_2_2.jpg} \includegraphics[scale=.3]{Example_12_2_3.jpg}
+\includegraphics[scale=.3]{img/Example_12_2_1.jpg} \includegraphics[scale=.3]{img/Example_12_2_2.jpg} \includegraphics[scale=.3]{img/Example_12_2_3.jpg}
 \end{center}
 Let us now think inductively. We know that $(n-1)$ lines divide the plane into $a_{n-1}$ regions. When we add that $n^\text{th}$ line, it intersects each of the $(n-1)$ lines once. Thus the $n^\text{th}$ line is divided into $n$ pieces, but each one of these pieces divides an old region into two new regions:
 \begin{equation*}
@@ -1705,7 +1705,7 @@ Find a recurrence relation for $a_n$, the number of different ways that a boy ca
 \begin{solution}
 First, look at simple cases:
 \begin{center}
-\includegraphics[scale=.3]{Example_12_3_1.jpg} \includegraphics[scale=.3]{Example_12_3_2.jpg} \includegraphics[scale=.3]{Example_12_3_3.jpg}
+\includegraphics[scale=.3]{img/Example_12_3_1.jpg} \includegraphics[scale=.3]{img/Example_12_3_2.jpg} \includegraphics[scale=.3]{img/Example_12_3_3.jpg}
 \end{center}
 Now try to generalize. Imagine that the boy is confronted by a flight with $n$ steps. He may do one of two mutually exclusive things:
 \begin{itemize}
@@ -2203,11 +2203,11 @@ A graph is a figure consisting of points called vertices and straight or curved 
 \noindent
 A classic example is setup of a sporting competition where vertices represent teams, edges represent matches, and you could even indicate that team A beat team B by indicating a direction on the edge. Ordinarily we indicate vertices by small circles and edges by straight or curved lines. Thus the following two graphs are not the same:
 \begin{center}
-\includegraphics[scale=.3]{Graph1_1.jpg} \includegraphics[scale=.3]{Not_Equal.jpg} \includegraphics[scale=.3]{Graph1_2.jpg}
+\includegraphics[scale=.3]{img/Graph1_1.jpg} \includegraphics[scale=.3]{img/Not_Equal.jpg} \includegraphics[scale=.3]{img/Graph1_2.jpg}
 \end{center}
 Though the following are the same (isomorphic):
 \begin{center}
-\includegraphics[scale=.3]{Graph2_1.jpg} \includegraphics[scale=.3]{Equal.jpg} \includegraphics[scale=.3]{Graph2_2.jpg} \includegraphics[scale=.3]{Equal.jpg} \includegraphics[scale=.3]{Graph2_3.jpg}
+\includegraphics[scale=.3]{img/Graph2_1.jpg} \includegraphics[scale=.3]{img/Equal.jpg} \includegraphics[scale=.3]{img/Graph2_2.jpg} \includegraphics[scale=.3]{img/Equal.jpg} \includegraphics[scale=.3]{img/Graph2_3.jpg}
 \end{center}
 The important property of any graph is how the vertices are joined by edges, not how it is drawn. Now to mention some special graphs:
 
